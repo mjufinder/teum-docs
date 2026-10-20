@@ -7,13 +7,31 @@ teum (mjufinder) 프로젝트의 **문서 저장소**입니다.
 
 | 폴더 | 내용 |
 | --- | --- |
-| [`requirements/`](./requirements) | 요구사항 명세서 (기능/비기능 요구사항) |
+| [`requirements/`](./requirements) | 요구사항 명세서, PRD |
+| [`reports/`](./reports) | 공식 보고서 (개념설계·진행/상세설계·증빙서) |
+| [`presentations/`](./presentations) | 발표자료 |
 | [`api/`](./api) | API 명세서 (엔드포인트, 요청/응답 스펙) |
 | [`design/`](./design) | 설계 문서 (시스템 아키텍처, ERD, DB 스키마, 화면 설계) |
-| [`planning/`](./planning) | 기획 자료 (기능 정의/선정, 개발 일정, 역할 분담) |
+| [`planning/`](./planning) | 기획 자료 (기능 정의/선정, 일정, 역할, 팀원 명단) |
 | [`meetings/`](./meetings) | 회의록 (날짜별) |
-| [`mentoring/`](./mentoring) | 멘토링 / 제작 보고서 |
+| [`mentoring/`](./mentoring) | 멘토링 노트 |
 | [`assets/`](./assets) | 이미지, 다이어그램, 캡처, 기타 첨부 파일 |
+
+## 문서 인덱스
+
+각 문서는 **md(바로 열람)** + **원본 파일**로 보관되어 있습니다.
+
+| 문서 | md | 원본 |
+| --- | --- | --- |
+| PRD (마스터 제품 문서) | [PRD.md](./requirements/PRD.md) | — |
+| 요구사항 명세서 | [md](./requirements/요구사항-명세서.md) | [pdf](./requirements/요구사항-명세서.pdf) |
+| 개념설계보고서 | [md](./reports/개념설계보고서.md) | [pdf](./reports/개념설계보고서.pdf) |
+| 진행보고서(상세설계) | [md](./reports/진행보고서-상세설계.md) | [pdf](./reports/진행보고서-상세설계.pdf) |
+| 생성형 AI 활용 증빙서 | [md](./reports/생성형AI활용-증빙서.md) | [pdf](./reports/생성형AI활용-증빙서.pdf) |
+| 개념설계 발표자료 | [md](./presentations/개념설계-발표자료.md) | [pptx](./presentations/개념설계-발표자료.pptx) |
+| 상세설계 발표자료 | [md](./presentations/상세설계-발표자료.md) | [pptx](./presentations/상세설계-발표자료.pptx) |
+| 팀원 명단 | [md](./planning/팀원-명단.md) | [xlsx](./planning/팀원-명단.xlsx) |
+| 기술스택·개발계획 회의록 | [md](./meetings/2026-10-18-기술스택-개발계획.md) | — |
 
 ## 파일 네이밍 규칙
 
