@@ -7,6 +7,7 @@ teum (mjufinder) 프로젝트의 **문서 저장소**입니다. 용도별로 3�
 | 폴더 | 용도 | 내용 |
 | --- | --- | --- |
 | [`spec/`](./spec) | 개발 기준 | PRD, 요구사항 명세, (향후) API 명세·ERD·DB 스키마 |
+| [`dev/`](./dev) | 개발 가이드 | 로컬 개발 환경 셋업 등 개발자용 안내 |
 | [`deliverables/`](./deliverables) | 제출 산출물 | 보고서(개념설계·진행/상세설계·증빙서), 발표자료 |
 | [`notes/`](./notes) | 운영 기록 | 회의록, 멘토링, 팀원 명단 |
 
@@ -23,6 +24,7 @@ teum (mjufinder) 프로젝트의 **문서 저장소**입니다. 용도별로 3�
 | 생성형 AI 활용 증빙서 | [deliverables/생성형AI활용-증빙서.md](./deliverables/생성형AI활용-증빙서.md) | [pdf](./deliverables/생성형AI활용-증빙서.pdf) |
 | 개념설계 발표자료 | [deliverables/개념설계-발표자료.md](./deliverables/개념설계-발표자료.md) | [pptx](./deliverables/개념설계-발표자료.pptx) |
 | 상세설계 발표자료 | [deliverables/상세설계-발표자료.md](./deliverables/상세설계-발표자료.md) | [pptx](./deliverables/상세설계-발표자료.pptx) |
+| 로컬 개발 환경 셋업 | [dev/로컬-개발-환경-셋업.md](./dev/로컬-개발-환경-셋업.md) | — |
 | 팀원 명단 | [notes/팀원-명단.md](./notes/팀원-명단.md) | [xlsx](./notes/팀원-명단.xlsx) |
 | 기술스택·개발계획 회의록 | [notes/2026-10-18-기술스택-개발계획.md](./notes/2026-10-18-기술스택-개발계획.md) | — |
 
