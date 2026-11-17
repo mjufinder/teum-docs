@@ -25,6 +25,8 @@ teum (mjufinder) 프로젝트의 **문서 저장소**입니다. 용도별로 3�
 | 개념설계 발표자료 | [deliverables/개념설계-발표자료.md](./deliverables/개념설계-발표자료.md) | [pptx](./deliverables/개념설계-발표자료.pptx) |
 | 상세설계 발표자료 | [deliverables/상세설계-발표자료.md](./deliverables/상세설계-발표자료.md) | [pptx](./deliverables/상세설계-발표자료.pptx) |
 | 로컬 개발 환경 셋업 | [dev/로컬-개발-환경-셋업.md](./dev/로컬-개발-환경-셋업.md) | — |
+| 프론트엔드 구조 가이드 | [dev/프론트엔드-구조-가이드.md](./dev/프론트엔드-구조-가이드.md) | — |
+| 프론트엔드 구현 현황 | [dev/프론트엔드-구현-현황.md](./dev/프론트엔드-구현-현황.md) | — |
 | 팀원 명단 | [notes/팀원-명단.md](./notes/팀원-명단.md) | [xlsx](./notes/팀원-명단.xlsx) |
 | 기술스택·개발계획 회의록 | [notes/2026-10-18-기술스택-개발계획.md](./notes/2026-10-18-기술스택-개발계획.md) | — |
 
